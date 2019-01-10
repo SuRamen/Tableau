@@ -1,0 +1,13 @@
+Brand	MinPrice(Rs)
+
+Sony	 10000
+Nokia	 10000
+Micromax	 6000
+Apple	 30000
+Asus	 7000
+	
+HTC	  12000
+Samung	  7000		
+Honor         6000                
+Blueberry    15000                
+			
